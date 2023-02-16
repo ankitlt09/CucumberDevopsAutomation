@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: Test Login functionality
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 25.418 s <<< FAILURE! - in Test Login functionality
+Check login is successful with valid credentials #2(Test Login functionality)  Time elapsed: 8.782 s  <<< FAILURE!
+java.lang.AssertionError
+
